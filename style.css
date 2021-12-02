@@ -1,0 +1,31 @@
+*{
+    margin:0;
+}
+
+
+body{
+    background-color: #FFE4C4;
+    color:black
+}
+
+.textarea{
+    width: 100%;
+    font-size: 20px;
+    padding: 16px;
+    border-radius: opx 40px;
+    outline: none;
+}
+
+.textarea:focus{
+    box-shadow: opx 0px 4px 4px  black ;
+}
+
+#preview{
+    background-color: white;
+    padding:16px;
+    font-size: 10px;
+    text-align: left;
+    color:black;
+    border: 1px solid black;
+    border-radius: opx 40px; ;
+}
